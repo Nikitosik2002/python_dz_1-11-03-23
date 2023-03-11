@@ -10,6 +10,7 @@ if income > costs:
     quantity_staffers = int(input("Введите численность сотрудников фирмы: "))
     print(f"Прибыль фирмы в расчете на одного сотрудника "
           f"= {result / quantity_staffers}")
-
+elif income == costs:
+    print("Фирма рабоает безубыточно ")
 else:
     print("Издержки больше выручки, фирма работает в убыток")
