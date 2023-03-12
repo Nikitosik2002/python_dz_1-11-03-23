@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="07eaadc4-da6b-4a03-a367-c9fd8738630d" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/lesson_proj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2MsLRQgin2PJiDnLMK9npZg5ra1" />
   <component name="ProjectViewState">
