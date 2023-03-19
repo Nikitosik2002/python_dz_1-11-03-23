@@ -1,6 +1,7 @@
 def del_func(arg_1, arg_2):
     return arg_1 / arg_2
 
+
 arg_1 = int(input("Введите первое число:"))
 arg_2 = int(input("Введите второе число:"))
 try:
