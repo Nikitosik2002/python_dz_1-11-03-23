@@ -7,12 +7,6 @@
     <list default="true" id="07eaadc4-da6b-4a03-a367-c9fd8738630d" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/lesson_proj.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Урок 2. Практическое задание/task_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Урок 2. Практическое задание/task_1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Урок 2. Практическое задание/task_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Урок 2. Практическое задание/task_2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Урок 2. Практическое задание/task_2/orders.json" beforeDir="false" afterPath="$PROJECT_DIR$/Урок 2. Практическое задание/task_2/orders.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Урок 2. Практическое задание/task_3/file.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Урок 2. Практическое задание/task_3/file.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Урок 2. Практическое задание/task_3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Урок 2. Практическое задание/task_3/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
