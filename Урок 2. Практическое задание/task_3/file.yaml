@@ -1,0 +1,11 @@
+items:
+- computer
+- printer
+- keyboard
+- mouse
+items_price:
+  computer: 100 €
+  keyboard: 4 €
+  mouse: 1 €
+  printer: 5 €
+items_quantity: 4
